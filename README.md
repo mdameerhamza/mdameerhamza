@@ -1,8 +1,3 @@
-### Hi there 👋
-
-<!--
-**mdameerhamza/mdameerhamza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 <h1>Hi, I am Front End Developer</h1>
 <h2>About Me!</h2>
 <p>Experienced Frontend Engineer with a demonstrated history of working in Frontend Development stacks. At the beginning of 2013, I started my Web Development journey and since that time developing very rich interactive and high scaled applications that are already generating leads and business for the firms. My skillset is also mentioned below, you can check it out.

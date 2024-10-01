@@ -1,3 +1,4 @@
+<img align="center" src="https://raw.githubusercontent.com/mdameerhamza/mdameerhamza/refs/heads/main/git-banner.png" alt="mdameerhamza">
 <h1 align="center">Hi 👋, I'm Muhammad Ameer Hamza</h1>
 <h3 align="center">Sr. Frontend & CMS Developer</h3>
 <p align="center">Experienced UI/UX Engineer with a strong background in web development since early 2018. I specialize in crafting highly interactive and visually compelling websites that effectively drive leads and generate business. My expertise in the Frontend Development stack has consistently delivered impactful digital solutions for clients.</p>
